@@ -9,4 +9,4 @@ It now includes steps for Github.
 Now, it's time to focus.
 focus again-1.
 
-Checking how pull works.
+Checking how pull works....
